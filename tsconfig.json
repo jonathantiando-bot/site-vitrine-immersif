@@ -35,11 +35,7 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts"
   ],
-  "exclude": [
+    "exclude": [
     "node_modules"
   ]
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> ec7ee53683ba4f38808840e622a57b941fa312ba
